@@ -20,5 +20,13 @@ public class S01 {
         System.out.println(daireninCevresi);
         System.out.println(daireninAlani);
 
+        System.out.println("==============2.cözüm===============");
+
+        double r2=7;
+        double cevre= Math.PI*2*r2;
+        System.out.println("Dairenin cevresi: "+cevre);
+        double alan= Math.PI*r2*r2;
+        System.out.println("Dairenin alani : "+alan);
+
     }
 }
