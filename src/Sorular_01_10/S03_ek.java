@@ -4,6 +4,7 @@ package Sorular_01_10;
 
 import java.util.Scanner;
 
+
 public class S03_ek {
 
     public static void main(String[] args) {
