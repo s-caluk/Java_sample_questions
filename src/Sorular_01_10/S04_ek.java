@@ -41,22 +41,28 @@ public class S04_ek {
             else System.out.println("sesli harf değildir");}
         else System.out.println("geçersiz giriş");
 
-        /*
 
         System.out.println("==================3.cözüm/mit substring=======================");
 
-        Scanner scan=new Scanner(System.in);
-        System.out.println("lütfen bir harf giriiniz");
-        String harf3 = scan.nextLine().toUpperCase();
-        String sesliHarf = "AEIOU";
-        String harfler ="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        if (!harfler.contains(harf3.substring(0,1))) System.out.println("geçersiz giriş");
-        else {
-            if (sesliHarf.contains(harf3.substring(0,1))) System.out.println("sesli harf");
-            else System.out.println("sesli harf değildir");
-        }
+        //Scanner scan = new Scanner(System.in);
+        System.out.println("Lutfen bir harf giriniz");
+        String ilkHarf=scan.next().toUpperCase().substring(0,1);
 
-        */
+        switch (ilkHarf){
+            case "A":
+            case "E":
+            case "O":
+            case "U":
+                System.out.println("Girilin harf sesli harftir");
+                break;
+            case "I":
+            case "Ü":
+            case "Ö":
+                System.out.println("Gecersiz harf girdiniz");
+                break;
+            default:
+                System.out.println("Girilen harf sesli harf degildir");
+        }
 
     }
 }
