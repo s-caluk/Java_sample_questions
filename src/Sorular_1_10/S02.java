@@ -15,6 +15,5 @@ public class S02 {
         System.out.println("Dikdortgenin Cevresi : " + 2*(uzun+kisa));
         System.out.println("Diktortgenin Alani : " + uzun*kisa);
 
-
     }
 }
