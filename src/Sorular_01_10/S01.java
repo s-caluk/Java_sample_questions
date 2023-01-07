@@ -2,7 +2,7 @@ package Sorular_01_10;
 
 public class S01 {
     public static void main(String[] args) {
-        /*
+    /*
     Soru 1-)   SOUT/SYSO
     Dairenin alanini ve cevresini hesaplayan java kodu yaziniz.
     Ipuclari:
@@ -10,7 +10,7 @@ public class S01 {
     * Pi=3.14
     * Dairenin Cevresi : 2*Pi*r
     * Dairenin Alani : Pi*r*r
-         */
+    */
 
         double r = 7 ;
         double Pi = 3.14 ;
