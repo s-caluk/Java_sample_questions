@@ -1,6 +1,6 @@
 
 
-package Sorular_1_10;
+package Sorular_01_10;
 
 import java.util.Scanner;
 

@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57707c19-2edd-414c-9169-f36ba960410e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_1_10/S02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S03_ek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S03_ek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_01_10/S10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +56,20 @@
       <recent name="Sorular_1_10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.S03">
+  <component name="RunManager" selected="Application.S04">
     <configuration name="S01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorular_1_10.S01" />
+      <option name="MAIN_CLASS_NAME" value="Sorular_01_10.S01" />
       <module name="JavaPractise_Sorular" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="S03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorular_1_10.S03" />
+      <option name="MAIN_CLASS_NAME" value="Sorular_01_10.S03" />
       <module name="JavaPractise_Sorular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorular_1_10.*" />
+          <option name="PATTERN" value="Sorular_01_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +78,24 @@
       </method>
     </configuration>
     <configuration name="S03_ek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorular_1_10.S03_ek" />
+      <option name="MAIN_CLASS_NAME" value="Sorular_01_10.S03_ek" />
       <module name="JavaPractise_Sorular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorular_1_10.*" />
+          <option name="PATTERN" value="Sorular_01_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorular_01_10.S04" />
+      <module name="JavaPractise_Sorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorular_01_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S04" />
         <item itemvalue="Application.S03" />
         <item itemvalue="Application.S03_ek" />
         <item itemvalue="Application.S01" />
