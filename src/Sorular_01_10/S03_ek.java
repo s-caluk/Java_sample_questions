@@ -43,6 +43,7 @@ public class S03_ek {
         int ilkSayi=scan.nextInt();
         int ikinciSayi=scan.nextInt();
         int ucuncuSayi=scan.nextInt();
+
         if (ilkSayi>ikinciSayi && ilkSayi>ucuncuSayi){
             System.out.println("En buyuk sayi:"+ ilkSayi);
         } else if (ikinciSayi>ilkSayi && ikinciSayi>ucuncuSayi) {
