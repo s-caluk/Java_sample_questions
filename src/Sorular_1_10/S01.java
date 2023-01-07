@@ -20,6 +20,5 @@ public class S01 {
         System.out.println(daireninCevresi);
         System.out.println(daireninAlani);
 
-
     }
 }

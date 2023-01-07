@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57707c19-2edd-414c-9169-f36ba960410e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractise_Sorular.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_10_20/S20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S03_ek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_1_10/S10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_20_30/S30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_30_40/S40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular_40_50/S50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular_1_10/S01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular_1_10/S01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
